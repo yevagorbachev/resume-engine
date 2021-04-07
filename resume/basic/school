@@ -1,0 +1,6 @@
+\rsubsection{{{name}}}{{{location}}}
+\position{{{degree}}}{{{time}}}
+\begin{{LIST}}
+    \item GPA: {gpa}
+    \item Relevant coursework: {coursework}
+\end{{LIST}}

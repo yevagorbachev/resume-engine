@@ -1,0 +1,11 @@
+\begin{{minipage}}{{0.6\textwidth}}
+	{{\LARGE\bf \uppercase{{{name}}}}}
+
+	\url{{{website}}}
+\end{{minipage}}
+\hfill
+\begin{{minipage}}{{0.3\textwidth}}
+	\hfill {phone}
+	
+	\hfill {email}
+\end{{minipage}}

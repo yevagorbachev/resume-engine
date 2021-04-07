@@ -1,0 +1,80 @@
+{
+	"info":{
+		"name":"Name Surname",
+		"email":"EMAIL",
+		"phone":"PHONE",
+		"website":"website"
+	},
+	"education": [
+		{
+			"name":"Institution", 
+			"location":"Place",
+			"degree":"Degree",
+			"time":"Graduation Time",
+			"gpa":"-3.403e38/4.0",
+			"coursework":[
+				{"course":"Course1", "flags":["flag1","flag2"]},
+				{"course":"Course2", "flags":["flag1"]}
+			],
+			"flags":["flag1"]
+		}
+	],
+	"experience": [
+		{
+			"name":"Job",
+			"location":"Place",
+			"positions":[
+				{
+					"position":"Position Leader",
+					"time":"Time",
+					"tasks":[
+						"Task Leading"
+					],
+					"flags":["flag1"]
+				},
+				{
+					"position":"Position",
+					"time":"Time",
+					"tasks":[
+						"Task"
+					],
+					"flags":["flag1"]
+				}
+			],
+			"flags":["flag1"]
+		}
+	],
+	"clubs": [
+		{
+			"name":"Club",
+			"location":"Place",
+			"positions":[
+				{
+					"position":"Member",
+					"time":"Time",
+					"tasks":[
+						"Task"
+					],
+					"flags":["flag2"]
+				}
+				
+			],
+			"flags":["flag1"]
+		}
+	],
+	"projects": [
+		{
+			"name":"Rockwell Automation's Retro-Encabulator",
+			"link":" ",
+			"tasks":[
+				"Provided inverse reactive current for use in unilateral phase detractors",
+				"Synchronized cardinal Graham-meters"
+			],
+			"flags":["flag2"]
+		}
+	],
+	"skills": [
+		{"skill":"skill1","flags":["flag1"]},
+		{"skill":"skill2","flags":["flag2"]}
+	]
+}
