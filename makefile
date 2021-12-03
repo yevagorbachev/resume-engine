@@ -1,11 +1,12 @@
 ifndef $(order)
-	order = ecwps
+	order = epwcs
 endif
 
 ifndef $(flags)
-	flags = +flag1 -flag2
+	flags = +all -high -old -futuP -anci
 endif
 
 all:
+	echo "Running engine with order $(order) and flags $(flags)"
 	python3 engine.py $(order) resume.json resume/basic $(flags) > resume/resume.tex
 	make -C resume

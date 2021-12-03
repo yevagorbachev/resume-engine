@@ -3,7 +3,8 @@
 		"name":"Name Surname",
 		"email":"EMAIL",
 		"phone":"PHONE",
-		"website":"website"
+		"note":"availability",
+		"web":"awebsite"
 	},
 	"education": [
 		{
@@ -73,8 +74,14 @@
 			"flags":["flag2"]
 		}
 	],
-	"skills": [
-		{"skill":"skill1","flags":["flag1"]},
-		{"skill":"skill2","flags":["flag2"]}
-	]
+	"skills": {
+		"hardware":[
+			{"skill":"hardware skill 1","flags":["flag1"]},
+			{"skill":"hardware skill 2","flags":["flag2"]}
+		],
+		"software":[
+			{"skill":"hardware skill 1","flags":["flag1"]},
+			{"skill":"hardware skill 2","flags":["flag2"]}
+		]
+	}
 }

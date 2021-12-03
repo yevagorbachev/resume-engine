@@ -1,0 +1,8 @@
+\vspace{{-1em}}
+\begin{{multicols*}}{{2}}
+\textbf{{Hardware}}
+{hardware}
+\columnbreak
+\textbf{{Software}}
+{software}
+\end{{multicols*}}

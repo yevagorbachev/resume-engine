@@ -1,7 +1,9 @@
 \begin{{minipage}}{{0.6\textwidth}}
 	{{\LARGE\bf \uppercase{{{name}}}}}
 
-	\url{{{website}}}
+	{web}
+
+	{note}
 \end{{minipage}}
 \hfill
 \begin{{minipage}}{{0.3\textwidth}}
